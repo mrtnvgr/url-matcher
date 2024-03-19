@@ -1,0 +1,13 @@
+[package]
+name = "url-matcher"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/mrtnvgr/url-matcher"
+license = "GPL-3.0"
+
+[dependencies]
+lazy_static = "1"
+thiserror = "1"
+regex = "1.10"
+recap = { version = "0.1", features = [] }
+serde = { version = "1.0", features = ["derive"] }
