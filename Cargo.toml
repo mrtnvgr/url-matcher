@@ -2,6 +2,7 @@
 name = "url-matcher"
 version = "0.1.0"
 edition = "2021"
+description = "Gather fields from URLS using patterns"
 repository = "https://github.com/mrtnvgr/url-matcher"
 license = "GPL-3.0"
 
